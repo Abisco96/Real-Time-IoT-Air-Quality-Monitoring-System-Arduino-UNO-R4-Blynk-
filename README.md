@@ -1,4 +1,4 @@
-# 🌍 Real-Time IoT Air Quality Monitoring System
+# 🌍 Low-cost, real-time IoT environmental monitoring system designed for scalable smart-city or healthcare applications
 
 ## 📌 Overview
 This project is a real-time air quality monitoring system built using the Arduino UNO R4 and Blynk IoT platform. It measures environmental air quality data and sends it to a cloud dashboard for remote monitoring and alerts.
